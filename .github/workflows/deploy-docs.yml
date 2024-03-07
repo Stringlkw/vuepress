@@ -49,4 +49,4 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
           token: ${{ secrets.TITLE }}
-          repositoryName: Stringlkw/vuepress.github.io
+          repository-name: Stringlkw/vuepress.github.io
